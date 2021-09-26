@@ -2,8 +2,8 @@ import yfinance as yf
 import streamlit as st
 
 st.write("""
-# Simple Stock Price App
-Shown are the stock **closing price** and ***volume*** of Google!
+# Google stock
+Closing & Volume Price for the decade 2010-2021
 """)
 
 # https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
